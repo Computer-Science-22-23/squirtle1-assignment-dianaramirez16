@@ -7,7 +7,7 @@ public class SquirtleThing extends PokeThing {
 	 * SquirtleThing Constructor
 	 * Creates a new <code>SquirtleThing</code> object.
 	 * Associated graphics file will be squirtle.png
-	 */
+	 ****/
 	public SquirtleThing()
 	{
 		super("Squirtle", "", 0);	
